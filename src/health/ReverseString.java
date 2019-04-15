@@ -1,5 +1,6 @@
 package health;
 
+//Create a function "ReverseString" that accepts a string and number of times to reverse the string (N) . N < 1000, length of string <1000.
 public class ReverseString {
 
     public static void main(String [] args) {
