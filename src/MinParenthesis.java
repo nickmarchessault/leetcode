@@ -1,5 +1,3 @@
-package health;
-
 import java.util.Stack;
 
 //Please find the minimum number of parentheses that need to be added

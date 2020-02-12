@@ -1,5 +1,3 @@
-package health;
-
 import java.util.Arrays;
 
 //In an array of numbers, find the longest sorted (ascending order) array. Assume length of array < 1000 .

@@ -1,5 +1,3 @@
-package health;
-
 public class NumOfNodesBinaryTree {
 
     //TODO:

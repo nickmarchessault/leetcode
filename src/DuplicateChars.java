@@ -1,5 +1,3 @@
-package health;
-
 import java.util.HashSet;
 
 //Find if a string has any duplicate characters.
